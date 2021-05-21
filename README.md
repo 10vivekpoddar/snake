@@ -1,1 +1,1 @@
-# i have created a snake game using Pycharm.
+# I have created a snake game using Pycharm. The snake will move if you press arrow keys. Each time the snake will eat food its size increases and the score is updated. Whenever the snake will hit the boundry or its body he game is over!
