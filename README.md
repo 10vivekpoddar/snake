@@ -1,1 +1,2 @@
-# I have created a snake game using Pycharm. The snake will move if you press arrow keys. Each time the snake will eat food its size increases and the score is updated. Whenever the snake will hit the boundry or its body he game is over!
+Developed a game in which snake can be moved in various direction using the keys.
+The snake has to eat the food generated automatically at random positions, and the user's score and the snake's length will increase each time it eats the food. Whenever the snake hits itself or the boundary, the game is over.
